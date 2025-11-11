@@ -1,4 +1,4 @@
-# ALBAR
+# SPLAVU
 
 This is the repository that contains source code for the [SPLAVU website](https://joefioresi718.github.io/SPLAVU_webpage/).
 
